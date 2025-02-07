@@ -1,5 +1,5 @@
 {
-    "name": "11.node_server",
+    "name": "12-express2",
     "version": "1.0.0",
     "main": "index.js",
     "type": "module",

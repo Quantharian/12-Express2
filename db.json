@@ -1,155 +1,155 @@
 {
-  "users": [
-    {
-      "id": "1111",
-      "name": "Rikardo",
-      "password": "Lol@ilo45"
-    }
-  ],
-  "games": [
-    {
-      "id": "",
-      "game": "Astroprisma",
-      "writter": "",
-      "url": "https://www.astroprisma.com/",
-      "img": "https://d1wgd08o7gfznj.cloudfront.net/uploads/project/preorder_image/47482/optimized_KICKcoverNOPISE.jpg",
-      "short description": "",
-      "number of pages": "",
-      "system": "",
-      "language": "",
-      "played": true
-    },
-    {
-      "id": "",
-      "game": "Lordsworn",
-      "writter": "",
-      "url": "",
-      "img": "",
-      "short description": "",
-      "number of pages": "",
-      "language": "",
-      "system": "",
-      "played": true
-    },
-    {
-      "id": "",
-      "game": "Reap",
-      "writter": "Gila",
-      "url": "",
-      "img": "",
-      "short description": "",
-      "number of pages": "",
-      "language": "",
-      "system": "",
-      "played": false
-    },
-    {
-      "id": "",
-      "game": "Revolt!",
-      "writer": "",
-      "url": "",
-      "img": "",
-      "short description": "",
-      "number of pages": "",
-      "language": "",
-      "system": "",
-      "played": false
-    },
-    {
-      "id": "",
-      "game": "The Wretched",
-      "writter": "",
-      "url": "",
-      "img": "",
-      "short description": "",
-      "number of pages": "",
-      "language": "",
-      "system": "",
-      "played": true
-    },
-    {
-      "id": "",
-      "game": "Zylight",
-      "writter": "",
-      "url": "",
-      "img": "",
-      "short description": "",
-      "number of pages": "",
-      "language": "",
-      "system": "",
-      "played": true
-    },
-    {
-      "id": "",
-      "game": "Colostle",
-      "writter": "",
-      "url": "",
-      "img": "",
-      "short description": "",
-      "number of pages": "",
-      "language": "",
-      "system": "",
-      "played": true
-    },
-    {
-      "id": "",
-      "game": "Rune",
-      "writter": "",
-      "url": "",
-      "img": "",
-      "short description": "",
-      "number of pages": "",
-      "language": "",
-      "system": "",
-      "played": true
-    },
-    {
-      "id": "",
-      "game": "Ronin",
-      "writter": "",
-      "url": "",
-      "img": "",
-      "short description": "",
-      "number of pages": "",
-      "language": "english/portuguese/spanish",
-      "system": "",
-      "played": true
-    },
-    {
-      "id": "",
-      "game": "Run!",
-      "writter": "Cezar Capacle",
-      "url": "",
-      "img": "",
-      "short description": "",
-      "number of pages": "",
-      "language": "",
-      "system": "",
-      "played": true
-    },
-    {
-      "id": "",
-      "game": "",
-      "writter": "",
-      "url": "",
-      "img": "",
-      "short description": "",
-      "number of pages": "",
-      "language": "",
-      "system": "",
-      "played": true
-    },
-    {
-      "id": "",
-      "game": "Carved by the garden",
-      "writer": "Cassi Mothin",
-      "url": "https://cassi-mothwin.itch.io/carved-by-the-garden",
-      "img": "",
-      "short descripción": "Document your character’s last days in the nearby haunted woods in Carved by the Garden, a single-player structured journaling game. Using a standard deck of playing cards, you’ll follow prompts that reveal the horrors waiting for you among the trees. You’ll also roll dice, pull blocks from a tumbling tower, and write about your experiences in character",
-      "number of pages": "48",
-      "system": "wretched",
-      "language": "english",
-      "played": false
-    }
-  ]
+    "users": [
+        {
+            "id": "1111",
+            "name": "Rikardo",
+            "password": "Lol@ilo45"
+        }
+    ],
+    "games": [
+        {
+            "id": "1",
+            "game": "Astroprisma",
+            "writter": "Crescent Quimera",
+            "url": "https://www.astroprisma.com/",
+            "img": "https://d1wgd08o7gfznj.cloudfront.net/uploads/project/preorder_image/47482/optimized_KICKcoverNOPISE.jpg",
+            "short description": "A solo sci-fi RPG of space exploration and faction conflict set in a retrofuturistic universe",
+            "number of pages": "160",
+            "system": "propio",
+            "language": "english",
+            "played": true
+        },
+        {
+            "id": "2",
+            "game": "Lordsworn",
+            "writter": "Marrensmusings",
+            "url": "https://marrensmusings.itch.io/lordsworn",
+            "img": "",
+            "short description": "LORDSWORN is a GMless TTRPG for 1-4 players of tragic, fragile stories of desperate survival and comradery at the end of the world. In LORDSWORN each player takes on the role of three Lordsworns, soldiers who swore themselves to a (now dead) God during the Cataclysm, an apocalyptical battle that saw all the Gods of the Pantheon go to war. With their God dead and the world churning and reeling from the death of the Pantheon, you and a handful of survivors must make the trek back to the only place that makes sense anymore – Home. ",
+            "number of pages": "",
+            "language": "english",
+            "system": "",
+            "played": true
+        },
+        {
+            "id": "3",
+            "game": "Reap",
+            "writter": "Gila",
+            "url": "",
+            "img": "",
+            "short description": "",
+            "number of pages": "",
+            "language": "",
+            "system": "",
+            "played": false
+        },
+        {
+            "id": "",
+            "game": "Revolt!",
+            "writer": "",
+            "url": "",
+            "img": "",
+            "short description": "",
+            "number of pages": "",
+            "language": "",
+            "system": "",
+            "played": false
+        },
+        {
+            "id": "",
+            "game": "The Wretched",
+            "writter": "",
+            "url": "",
+            "img": "",
+            "short description": "",
+            "number of pages": "",
+            "language": "",
+            "system": "",
+            "played": true
+        },
+        {
+            "id": "",
+            "game": "Zylight",
+            "writter": "",
+            "url": "",
+            "img": "",
+            "short description": "",
+            "number of pages": "",
+            "language": "",
+            "system": "",
+            "played": true
+        },
+        {
+            "id": "",
+            "game": "Colostle",
+            "writter": "",
+            "url": "",
+            "img": "",
+            "short description": "",
+            "number of pages": "",
+            "language": "",
+            "system": "",
+            "played": true
+        },
+        {
+            "id": "",
+            "game": "Rune",
+            "writter": "",
+            "url": "",
+            "img": "",
+            "short description": "",
+            "number of pages": "",
+            "language": "",
+            "system": "",
+            "played": true
+        },
+        {
+            "id": "",
+            "game": "Ronin",
+            "writter": "",
+            "url": "",
+            "img": "",
+            "short description": "",
+            "number of pages": "",
+            "language": "english/portuguese/spanish",
+            "system": "",
+            "played": true
+        },
+        {
+            "id": "",
+            "game": "Run!",
+            "writter": "Cezar Capacle",
+            "url": "",
+            "img": "",
+            "short description": "",
+            "number of pages": "",
+            "language": "",
+            "system": "",
+            "played": true
+        },
+        {
+            "id": "",
+            "game": "",
+            "writter": "",
+            "url": "",
+            "img": "",
+            "short description": "",
+            "number of pages": "",
+            "language": "",
+            "system": "",
+            "played": true
+        },
+        {
+            "id": "",
+            "game": "Carved by the garden",
+            "writer": "Cassi Mothin",
+            "url": "https://cassi-mothwin.itch.io/carved-by-the-garden",
+            "img": "",
+            "short descripción": "Document your character's last days in the nearby haunted woods in Carved by the Garden, a single-player structured journaling game. Using a standard deck of playing cards, you’ll follow prompts that reveal the horrors waiting for you among the trees. You’ll also roll dice, pull blocks from a tumbling tower, and write about your experiences in character",
+            "number of pages": "48",
+            "system": "wretched",
+            "language": "english",
+            "played": false
+        }
+    ]
 }
